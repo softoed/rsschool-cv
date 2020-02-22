@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://softoed.github.io/rsschool-cv/cv
